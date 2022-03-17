@@ -2,3 +2,4 @@
 __pycache__
 run_this.sh
 postgre.sql
+create_models.py
