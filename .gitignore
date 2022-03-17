@@ -1,0 +1,4 @@
+.env
+__pycache__
+run_this.sh
+postgre.sql
